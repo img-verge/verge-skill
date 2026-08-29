@@ -1,0 +1,3 @@
+# 仓库里一律存 LF，检出时也用 LF。
+# 这些 Markdown 会被直接拷进 macOS / Linux 的 ~/.claude/skills/，不该带上 CRLF。
+* text=auto eol=lf
